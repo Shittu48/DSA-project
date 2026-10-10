@@ -1,0 +1,20 @@
+{
+  "name": "dsa-project",
+  "version": "1.0.0",
+  "description": "Capstone project for DSA 2026 Cohort Software Development Frontend and Backend",
+  "homepage": "https://github.com/Shittu48/DSA-project#readme",
+  "bugs": {
+    "url": "https://github.com/Shittu48/DSA-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shittu48/DSA-project.git"
+  },
+  "license": "ISC",
+  "author": "Shittu Monsuru Olawale",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
